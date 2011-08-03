@@ -28,5 +28,9 @@ public partial class _Default : System.Web.UI.Page
         }
 
         return resposta;
+		
+		public void oi(string teste)
+		{
+		}
     }
 }
