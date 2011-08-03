@@ -34,7 +34,7 @@ public partial class _Default : System.Web.UI.Page
 		}
     }
 	
-	public void oi()
+	public void oi(oi)
 	{
 		Bla bla
 	}
